@@ -13,7 +13,7 @@ A Python script for searching through files in a directory to find patterns that
 Before you begin, ensure you have met the following requirements:
 
 - Python 3.x installed on your system
-- tqdm library installed (can be installed via `pip install tqdm`)
+  tqdm library installed (can be installed via `pip install tqdm`)
 
 ## Installation
 Clone the repository to your local machine:
@@ -23,17 +23,17 @@ cd DS_Store_Flag_Finder
 
 #Usage
 1-Run the script using Python
---python DS_Store_Flag_Finder.py
+-python DS_Store_Flag_Finder.py
 2-When prompted, enter the path to the directory you want to search exp(C:\Users\Desktop\logss) and provide a custom flag format or just hit enter ant let the tool use the default format.
 3-The script will display any found flags in the terminal and provide a summary at the end.
 
 #Contributing
-Contributions to the DS_Store Flag Finder are welcome. To contribute:
+-Contributions to the DS_Store Flag Finder are welcome. To contribute:
 
 #License
-Distributed under the MIT License. See LICENSE for more information.
+-Distributed under the MIT License. See LICENSE for more information.
 
 #Contact
-Alnd H Kordi 
-https://twitter.com/Alnd_kordi
-https://t.me/exploit0dayz
+-Alnd H Kordi 
+-https://twitter.com/Alnd_kordi
+-https://t.me/exploit0dayz
