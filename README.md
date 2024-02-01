@@ -22,19 +22,19 @@ git clone https://github.com/Alndhkordi/DS_Store-Flag-Finder.git
 
 cd DS_Store_Flag_Finder
 
-#Usage
+## Usage
 
 1-Run the script using Python
 -python DS_Store_Flag_Finder.py
 
-2-When prompted, enter the path to the directory you want to search exp(C:\Users\Desktop\logss) and provide a custom flag format or just hit enter ant let the tool use the default format.
+2-When prompted, enter the path to the directory you want to search exp(C:\Users\Desktop\logss) and provide a custom flag format or just hit enter and let the tool use the default format.
 
 3-The script will display any found flags in the terminal and provide a summary at the end.
 
-#Contributing
+## Contributing
 -Contributions to the DS_Store Flag Finder are welcome. To contribute:
 
-#License
+## License
 -Distributed under the MIT License.
 
 
