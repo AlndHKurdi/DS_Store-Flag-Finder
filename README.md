@@ -13,7 +13,7 @@ A Python script for searching through files in a directory to find patterns that
 Before you begin, ensure you have met the following requirements:
 
 - Python 3.x installed on your system
-- tqdm library installed (can be installed via `pip install tqdm`)
+- tqdm library installed (can be installed via `pip install tqdm`
 
 ## Installation
 Clone the repository to your local machine:
