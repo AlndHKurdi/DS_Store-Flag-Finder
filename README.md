@@ -35,10 +35,10 @@ python DS_Store_Flag_Finder.py
 3-The script will display any found flags in the terminal and provide a summary at the end.
 
 ## Contributing
--Contributions to the DS_Store Flag Finder are welcome. To contribute:
+Contributions to the DS_Store Flag Finder are welcome.
 
 ## License
--Distributed under the MIT License.
+Distributed under the MIT License.
 
 
 #Contact
